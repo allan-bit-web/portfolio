@@ -1,0 +1,11 @@
+{
+    "submissions": [
+        {
+            "id": 1,
+            "name": "Example User",
+            "email": "example@email.com",
+            "message": "This is an example submission",
+            "timestamp": "2024-03-20T12:00:00Z"
+        }
+    ]
+} 
